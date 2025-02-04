@@ -130,12 +130,8 @@ export default function(hljs) {
   const TYPES = [
     "Any",
     "Callable",
-    "Coroutine",
     "Dict",
     "List",
-    "Literal",
-    "Generic",
-    "Optional",
     "Sequence",
     "Set",
     "Tuple",
