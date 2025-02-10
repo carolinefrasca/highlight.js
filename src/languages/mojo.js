@@ -355,11 +355,11 @@ export default function(hljs) {
   ];
 
   return {
-    name: 'Python',
+    name: 'Mojo',
     aliases: [
-      'py',
-      'gyp',
-      'ipython'
+      // 'py',
+      // 'gyp',
+      // 'ipython'
     ],
     unicodeRegex: true,
     keywords: KEYWORDS,
